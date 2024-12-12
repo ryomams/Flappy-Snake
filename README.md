@@ -11,12 +11,12 @@ This project makes use of the [CMake template repo for SFML](https://github.com/
 
 1. Make sure CMake is installed on your system.
 2. Download and unzip this repo, or clone it with a git client.
-3. Using CMake from the command line, run
+3. Using CMake from the command line, with the project as your working directory, run
   ```
   cmake -B build
   cmake --build build
   ```
-  and also make sure your working directory is the project you unzipped or cloned...<br>If you're on linux, [you'll need to install SFML's dependencies](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file#how-to-use).
+  CMake will download and link SFML from its GitHub repo automatically.<br>If you're on linux, however, [you'll need to install SFML's dependencies](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file#how-to-use).
   
 4. CMake will have made its build in /build/bin of the uppermost folder...... enjoy!!
 
