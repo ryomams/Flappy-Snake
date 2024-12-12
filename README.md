@@ -16,7 +16,7 @@ This project makes use of the [CMake template repo for SFML](https://github.com/
   cmake -B build
   cmake --build build
   ```
-  and also make sure your working directory is the project you unzipped or cloned...<br>If you're on linux, [you'll need to install SFML's dependencies](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file#how-to-use)).
+  and also make sure your working directory is the project you unzipped or cloned...<br>If you're on linux, [you'll need to install SFML's dependencies](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file#how-to-use).
   
 4. CMake will have made its build in /build/bin of the uppermost folder...... enjoy!!
 
