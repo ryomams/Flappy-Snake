@@ -4,6 +4,8 @@ C++ Project for Laney College's CIS 25, Using SFML
 
 ![Screenshot of title screen](screenie.png)
 
+It's flappy bird and snake and you play them at the same time 👍
+
 ## Running This Project
 This project makes use of the [CMake template repo for SFML](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file), but I didn't use git when developing so there's no substantial commit history teehee<br> I'm not uploading my builds here, you'll have to do it yourself. To build and run this project:
 
