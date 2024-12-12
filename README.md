@@ -1,5 +1,5 @@
 # Flappy-Snake
-C++ Project for Laney College's CIS 25, Using SFML
+C++ Project for Laney College's CIS 25, Using SFML.<br>This repo is also available [on codeberg](https://codeberg.org/ryomams/Flappy-Snake).
 
 
 ![Screenshot of title screen](screenie.png)
