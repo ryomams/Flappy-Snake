@@ -18,7 +18,7 @@ This project makes use of the [CMake template repo for SFML](https://github.com/
   ```
   and also make sure your working directory is of this project...
   
-4. CMake will have made its build in /build of the uppermost folder...... enjoy!!
+4. CMake will have made its build in /build/bin of the uppermost folder...... enjoy!!
 
 ### Thanks to [SFML](https://www.sfml-dev.org) for existing and being an overall awesome project :)
 
