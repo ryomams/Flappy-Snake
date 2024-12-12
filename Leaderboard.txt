@@ -1,0 +1,16 @@
+User ended with flap score of: 222 and a snake score of: 0.
+
+User ended with flap score of: 222 and a snake score of: 0.
+
+User ended with flap score of: 612 and a snake score of: 1.
+
+User ended with flap score of: 85 and a snake score of: 0.
+
+User ended with flap score of: 67 and a snake score of: 0.
+
+User ended with flap score of: 348 and a snake score of: 1.
+
+User ended with flap score of: 522 and a snake score of: 1.
+
+User ended with flap score of: 1282 and a snake score of: 3.
+
