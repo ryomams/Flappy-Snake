@@ -1,8 +1,11 @@
 # Flappy-Snake
 C++ Project for Laney College's CIS 25, Using SFML
 
+
+![Screenshot of title screen](screenie.png)
+
 ## Running This Project
-This project makes use of the [CMake template repo for SFML](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file), but I didn't use git when developing so there's no commit history teehee<br> I'm not uploading my builds here, you'll have to do it yourself. To build and run this project:
+This project makes use of the [CMake template repo for SFML](https://github.com/SFML/cmake-sfml-project?tab=readme-ov-file), but I didn't use git when developing so there's no substantial commit history teehee<br> I'm not uploading my builds here, you'll have to do it yourself. To build and run this project:
 
 1. Make sure CMake is installed on your system.
 2. Download and unzip this repo, or clone it with a git client.
@@ -18,4 +21,4 @@ This project makes use of the [CMake template repo for SFML](https://github.com/
 ### Thanks to [SFML](https://www.sfml-dev.org) for existing and being an overall awesome project :)
 
 ## License
-There is no license for this project, other than [the zlib license included with SFML](https://github.com/SFML/SFML/blob/master/license.md). Only your remorse can save you.
+There is no license for this project. There is a [zlib license included with SFML](https://github.com/SFML/SFML/blob/master/license.md), but I'm not distributing SFML here.<br>Only your remorse can save you.
